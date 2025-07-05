@@ -5,13 +5,30 @@ Here is my [paper](https://onepetro.org/SPEADIP/proceedings-abstract/23ADIP/23AD
 
 ## Data overview
 
+Data presence over dataset
 ![Data presence over dataset](https://github.com/iamm3chanic/norwey_xeek_research/blob/master/results/figures/data_presence.png)
 
+Lithology map
 ![Lithology map](https://github.com/iamm3chanic/norwey_xeek_research/blob/master/results/figures/map_overview_lithology.png)
 
+Lithology vs formation distribution
 ![Lithology vs formation distribution](https://github.com/iamm3chanic/norwey_xeek_research/blob/master/results/figures/lithology_formation_presence.png)
 
 
+## Change point detection result on single well via SIOU metric
+ ![](https://github.com/iamm3chanic/norwey_xeek_research/blob/master/results/figures/31-2-7.png)
+
+## Formations similarity research: clustering via DTW metrics
+![](https://github.com/iamm3chanic/norwey_xeek_research/blob/master/results/figures/formation_clusters_2d.png)
+
+## Results of DTW similarity application on single well
+![](https://github.com/iamm3chanic/norwey_xeek_research/blob/master/results/figures/well_5_Pelt_08_sim.png)
+
+## Results of classifying formations 
+![](https://github.com/iamm3chanic/norwey_xeek_research/blob/master/results/figures/well_4_BottomUp_08197_123_dtw_near.png)
+
+## Macro-F1 score distribution histogram over test set
+![](https://github.com/iamm3chanic/norwey_xeek_research/blob/master/results/figures/histogram_F1_ws30.png)
 
 ## Structure
 
